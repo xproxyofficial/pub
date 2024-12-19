@@ -1,8 +1,8 @@
 {
   "dev": {
     "version": "v20.6",
-    "build": "2024.Dec19.1847",
-    "url": "https://github.com/xproxyofficial/pub/releases/download/v20.6/xproxy_amd64_2024.Dec19.1847-dev.7z"
+    "build": "24.1219.1908",
+    "url": "https://github.com/xproxyofficial/pub/releases/download/v20.6/xproxy_amd64_24.1219.1908-dev.7z"
   },
   "beta": {
     "version": "v20.6",
