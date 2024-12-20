@@ -7,8 +7,9 @@
   },
   "beta": {
     "version": "v20.6",
-    "build": "24.1219.1909",
-    "url": "https://github.com/xproxyofficial/pub/releases/download/v20.6/xproxy_arm64_24.1219.1909-beta.7z"
+    "build": "24.1220.1358",
+    "url": "https://github.com/xproxyofficial/pub/releases/download/v20.6/xproxy_arm64_24.1220.1358-beta.7z",
+    "git_commit": "02b334d"
   },
   "prod": {
     "version": "v20.6",
