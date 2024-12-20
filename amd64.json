@@ -1,9 +1,9 @@
 {
   "dev": {
     "version": "v20.6",
-    "build": "24.1220.1239",
-    "url": "https://github.com/xproxyofficial/pub/releases/download/v20.6/xproxy_amd64_24.1220.1239-dev.7z",
-    "git_commit": "dev"
+    "build": "24.1220.1358",
+    "url": "https://github.com/xproxyofficial/pub/releases/download/v20.6/xproxy_amd64_24.1220.1358-dev.7z",
+    "git_commit": "02b334d"
   },
   "beta": {
     "version": "v20.6",
