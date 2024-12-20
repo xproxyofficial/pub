@@ -13,8 +13,8 @@
   },
   "prod": {
     "version": "v20.6",
-    "build": "24.1220.1347",
-    "url": "https://github.com/xproxyofficial/pub/releases/download/v20.6/xproxy_amd64_24.1220.1347-prod.7z",
-    "git_commit": "02b334d"
+    "build": "24.1220.1745",
+    "url": "https://github.com/xproxyofficial/pub/releases/download/v20.6/xproxy_amd64_24.1220.1745-prod.7z",
+    "git_commit": "635f917"
   }
 }
