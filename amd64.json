@@ -6,10 +6,10 @@
     "git_commit": "02b334d"
   },
   "beta": {
-    "version": "v20.6",
-    "build": "24.1220.1907",
-    "url": "https://github.com/xproxyofficial/pub/releases/download/v20.6/xproxy_amd64_24.1220.1907-beta.7z",
-    "git_commit": "baaa03f"
+    "version": "v20.7",
+    "build": "24.1223.1838",
+    "url": "https://github.com/xproxyofficial/pub/releases/download/v20.7/xproxy_amd64_24.1223.1838-beta.7z",
+    "git_commit": "415f97a"
   },
   "prod": {
     "version": "v20.7",
