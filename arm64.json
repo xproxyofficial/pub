@@ -1,9 +1,9 @@
 {
   "dev": {
-    "version": "v20.6",
-    "build": "24.1220.1358",
-    "url": "https://github.com/xproxyofficial/pub/releases/download/v20.6/xproxy_arm64_24.1220.1358-dev.7z",
-    "git_commit": "02b334d"
+    "version": "v20.7",
+    "build": "24.1224.1500",
+    "url": "https://github.com/xproxyofficial/pub/releases/download/v20.7/xproxy_arm64_24.1224.1500-dev.7z",
+    "git_commit": "53fb9a6"
   },
   "beta": {
     "version": "v20.6",
