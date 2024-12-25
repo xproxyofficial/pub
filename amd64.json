@@ -7,9 +7,9 @@
   },
   "beta": {
     "version": "v20.7",
-    "build": "24.1225.1811",
-    "url": "https://github.com/xproxyofficial/pub/releases/download/v20.7/xproxy_amd64_24.1225.1811-beta.7z",
-    "git_commit": "b80a6ec"
+    "build": "24.1225.1904",
+    "url": "https://github.com/xproxyofficial/pub/releases/download/v20.7/xproxy_amd64_24.1225.1904-beta.7z",
+    "git_commit": "1f40985"
   },
   "prod": {
     "version": "v20.7",
